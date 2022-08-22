@@ -90,7 +90,7 @@ export default class Pricing extends React.Component {
                                                 <li><i className="fa fa-check"></i> Fluxos Ilimitados</li>
                                             </ul>
 
-                                            <a href="https://app.monetizze.com.br/checkout/DFY171226?src=pv" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
+                                            <a href="https://app.monetizze.com.br/r/BGU1548378" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
                                         </div>
 
                                     </div>

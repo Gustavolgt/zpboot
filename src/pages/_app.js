@@ -8,8 +8,8 @@ import '../styles/css/zimed-icon.css'
 import { ChakraProvider } from '@chakra-ui/react'
 import Script from 'next/script'
 function MyApp({ Component, pageProps }) {
-  let GTM_ID = 'GTM-TPRTVNB'
-  const FB_PIXEL_ID = '792720518831304'
+  let GTM_ID = 'GTM-M8NN8M8'
+  const FB_PIXEL_ID = '590741259443714'
 
   return (
     <>

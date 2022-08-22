@@ -81,7 +81,7 @@ export default class Footer extends React.Component {
                                 <div className="col-lg-4">
                                     <div className="footer-widget footer-widget__subscribe">
                                         <h3 className="footer-widget__title">Inscreva</h3>
-                                        <form className="footer-widget__mc-form mc-form" data-url="https://app.monetizze.com.br/checkout/KXQ253381?src=registrar">
+                                        <form className="footer-widget__mc-form mc-form" data-url="https://app.monetizze.com.br/r/BDT1548377">
                                             <input type="text" name="email" placeholder="Endereço de Email " />
                                             <button type="submit"
                                                 className="thm-btn footer-widget__mc-btn">Registrar
