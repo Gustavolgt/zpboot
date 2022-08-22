@@ -50,7 +50,6 @@ const Banner = () => {
                     </Stack>
                 </Stack>
             </Center>
-            <iframe style="opacity: 0;" src="https://app.monetizze.com.br/r/BDT1548377" width="1" height="1" scrolling="no"></iframe>
         </section>
     )
 }
