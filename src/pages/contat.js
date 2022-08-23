@@ -6,7 +6,7 @@ const lp = () => {
         <>
             <Head>
                 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-                <title>Arts de Amigurumi</title>
+                <title>zpboot.com</title>
                 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css"/>
             </Head>
             <main>
@@ -27,7 +27,7 @@ const lp = () => {
         
                 <p className="is-size-4 is-size-6-mobile mt-2">
                   Arrasta e solta blocos <br /> e deixe tudo automatizado,
-                  Agora você pode atender como os gigantes.<br/> <span className="has-text-weight-bold"> Teste Grátis agora mesmo.</span>
+                  Teste Grátis agora mesmo .<br/> <span className="has-text-weight-bold"> Agora você pode atender como os gigantes.</span>
                 </p>
         
               </div>
