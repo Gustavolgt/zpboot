@@ -18,13 +18,11 @@ const lp = () => {
                 <p className="is-orange is-size-3-mobile">
                   Não tem a resposta na hora, sabe oque ele faz?
                 </p>
-                <p
-                  className="has-background-roxo is-size-2 is-size-4-mobile has-text-white"
-                >
+                <p className="has-background-roxo is-size-2 is-size-4-mobile has-text-white">
                   Ele busca a resposta em outro lugar!
                 </p>
                 <p className="is-size-1 has-text-weight-bold has-text-black is-size-3-mobile mt-1">
-                  economizze seu tempo e o do cliente!
+                  Economizze seu tempo e o do cliente!
                 </p>
         
                 <p className="is-size-4 is-size-6-mobile mt-2">
