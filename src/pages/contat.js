@@ -13,30 +13,30 @@ const lp = () => {
                 <div className="">
                 <div className="CTA has-text-centered mt-5">
                 <p className="is-size-1 is-size-4-mobile">
-                  ESTÁ CANSADA
+                  QUANDO O CLIENTE
                 </p>
                 <p className="is-orange is-size-3-mobile">
-                  De perder seu valioso tempo procurando receitas e não encontrar?
+                  Não tem a resposta na hora, sabe oque ele faz?
                 </p>
                 <p
                   className="has-background-roxo is-size-2 is-size-4-mobile has-text-white"
                 >
-                  Isso é um grande problema!
+                  Ele busca a resposta em outro lugar!
                 </p>
                 <p className="is-size-1 has-text-weight-bold has-text-black is-size-3-mobile mt-1">
-                  E em breve vamos resolver o seu problema.
+                  economizze seu tempo e o do cliente!
                 </p>
         
                 <p className="is-size-4 is-size-6-mobile mt-2">
-                  Venha falar <br /> Com uma artesã profissional,
-                  com direito a lindos modelos de receitas de brinde.<br/> <span className="has-text-weight-bold"> Os mais lindos modelos de receitas te Espera.</span>
+                  Arrasta e solta blocos <br /> e deixe tudo automatizado,
+                  Agora você pode atender como os gigantes.<br/> <span className="has-text-weight-bold"> Teste Grátis agora mesmo.</span>
                 </p>
         
               </div>
               <div className="columns is-mobile mt-2">
                     <div className="column"></div>
                     <div className="column">
-                        <a href="https://api.whatsapp.com/send?phone=5511961845970&text=Eu%20quero"><button className="botao2-mobile has-background-light-verde mt-5" value="Submit">EU QUERO</button></a>
+                        <a href="https://api.whatsapp.com/send?phone=5511961845970&text=Saiba%20mais"><button className="botao2-mobile has-background-light-verde mt-5" value="Submit">EU QUERO</button></a>
                     </div>
                     <div className="column"></div>
                 </div>
