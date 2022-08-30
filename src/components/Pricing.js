@@ -67,7 +67,7 @@ export default class Pricing extends React.Component {
                                                 <li><i className="fa fa-check"></i> 4 Fluxos</li>
                                             </ul>
 
-                                            <a href="https://app.zapbot.online" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
+                                            <a href="https://app.monetizze.com.br/r/BDT1548377" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
                                         </div>
 
                                     </div>
@@ -118,7 +118,7 @@ export default class Pricing extends React.Component {
                                                 <li><i className="fa fa-check"></i> 4 Fluxos</li>
                                             </ul>
 
-                                            <a href="https://app.zapbot.online" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
+                                            <a href="https://app.monetizze.com.br/r/BDT1548377" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
                                         </div>
                                     </div>
                                 </div>
