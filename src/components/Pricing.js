@@ -59,8 +59,8 @@ export default class Pricing extends React.Component {
                                                 className="pricing-one__line" />
                                             <img src="/assets/images/shapes/pricing-icon-1-1.png" alt=""
                                                 className="pricing-one__icon" />
-                                            <h3>TESTE GRÁTIS POR 14 DIAS</h3>
-                                            <p>Não precisa adicionar cartão, teste sem compromisso</p>
+                                            <h3>TESTE GRÁTIS</h3>
+                                            <p>14 dias free para você testar a plataforma</p>
                                             <ul className="list-unstyled pricing-one__list">
                                                 <li><i className="fa fa-check"></i> 50 Leads</li>
                                                 <li><i className="fa fa-check"></i> 1 Sequência</li>
@@ -111,7 +111,7 @@ export default class Pricing extends React.Component {
                                             <img src="/assets/images/shapes/pricing-icon-1-1.png" alt=""
                                                 className="pricing-one__icon" />
                                             <h3>TESTE GRÁTIS POR 14 DIAS</h3>
-                                            <p>Não precisa adicionar cartão, teste sem compromisso</p>
+                                            <p>14 dias free para você testar a plataforma</p>
                                             <ul className="list-unstyled pricing-one__list">
                                                 <li><i className="fa fa-check"></i> 50 Leads</li>
                                                 <li><i className="fa fa-check"></i> 1 Sequência</li>

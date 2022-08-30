@@ -53,7 +53,7 @@ const Navbar = () => {
                         <div className="main-nav__right">
                             <a href="#pricing" data-target="#pricing"
                                 className="thm-btn header__btn scroll-to-target">Teste Grátis</a>
-                            <a href="https://app.zapbot.online"
+                            <a href="https://app.monetizze.com.br/r/BEG1552293"
                                 className="thm-btn header__btn2 scroll-to-target">Entrar</a>
 
                         </div>
