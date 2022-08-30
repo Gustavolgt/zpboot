@@ -111,7 +111,7 @@ export default class Pricing extends React.Component {
                                             <img src="/assets/images/shapes/pricing-icon-1-1.png" alt=""
                                                 className="pricing-one__icon" />
                                             <h3>TESTE GRÁTIS POR 14 DIAS</h3>
-                                            <p>Não precisa adicionar cartão "teste sem compromisso"</p>
+                                            <p>Não precisa adicionar cartão, teste sem compromisso</p>
                                             <ul className="list-unstyled pricing-one__list">
                                                 <li><i className="fa fa-check"></i> 50 Leads</li>
                                                 <li><i className="fa fa-check"></i> 1 Sequência</li>
