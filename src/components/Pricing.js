@@ -139,7 +139,7 @@ export default class Pricing extends React.Component {
                                                 <li><i className="fa fa-check"></i> Sequências Ilimitadas</li>
                                                 <li><i className="fa fa-check"></i> Fluxos Ilimitados</li>
                                             </ul>
-                                            <a href="https://app.monetizze.com.br/checkout/KLH251788?src=pv" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
+                                            <a href="https://app.monetizze.com.br/r/BAJ1553693" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
                                         </div>
                                     </div>
                                 </div>
