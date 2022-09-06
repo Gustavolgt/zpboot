@@ -34,7 +34,6 @@ const Home = () => (
         <CallToAction />
         <Footer />
         
-        <img href="https://app.monetizze.com.br/r/AKJ20849732?u=c&pl=FY171226" width="1px" height="1px" />
     </Layout>
 
 )
