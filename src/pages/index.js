@@ -33,7 +33,6 @@ const Home = () => (
 
         <CallToAction />
         <Footer />
-        
     </Layout>
 
 )
