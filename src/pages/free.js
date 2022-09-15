@@ -5,7 +5,7 @@ import { Center, Text } from '@chakra-ui/react'
 const Aulagratis = () => {
   const router = useRouter()
   useEffect(() => {
-    router.push('https://app.monetizze.com.br/r/BDT1548377?src=fluxo407')
+    router.push('https://app.monetizze.com.br/r/BDT1548377')
   }
     , [])
   return (
