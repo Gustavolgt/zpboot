@@ -67,7 +67,7 @@ export default class Pricing extends React.Component {
                                                 <li><i className="fa fa-check"></i> 4 Fluxos</li>
                                             </ul>
 
-                                            <a href="https://app.monetizze.com.br/r/BEG1552293" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
+                                            <a href="https://app.monetizze.com.br/r/BEQ1565814" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
                                         </div>
 
                                     </div>
@@ -90,7 +90,7 @@ export default class Pricing extends React.Component {
                                                 <li><i className="fa fa-check"></i> Fluxos Ilimitados</li>
                                             </ul>
 
-                                            <a href="https://app.monetizze.com.br/r/BGU1548378" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
+                                            <a href="https://app.monetizze.com.br/r/BCC1565816" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
                                         </div>
 
                                     </div>
@@ -118,7 +118,7 @@ export default class Pricing extends React.Component {
                                                 <li><i className="fa fa-check"></i> 4 Fluxos</li>
                                             </ul>
 
-                                            <a href="https://app.monetizze.com.br/r/BEG1552293" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
+                                            <a href="https://app.monetizze.com.br/r/BEQ1565814" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -139,7 +139,7 @@ export default class Pricing extends React.Component {
                                                 <li><i className="fa fa-check"></i> Sequências Ilimitadas</li>
                                                 <li><i className="fa fa-check"></i> Fluxos Ilimitados</li>
                                             </ul>
-                                            <a href="https://app.monetizze.com.br/r/BAJ1553693" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
+                                            <a href="https://app.monetizze.com.br/r/BNS1565817" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
                                         </div>
                                     </div>
                                 </div>
