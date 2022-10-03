@@ -67,7 +67,7 @@ export default class Pricing extends React.Component {
                                                 <li><i className="fa fa-check"></i> 4 Fluxos</li>
                                             </ul>
 
-                                            <a href="https://api.whatsapp.com/send?phone=5511961845970&text=Eu%20quero" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
+                                            <a href="https://api.whatsapp.com/send?phone=5511961845970&text=Saiba%20mais" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
                                         </div>
 
                                     </div>
@@ -118,7 +118,7 @@ export default class Pricing extends React.Component {
                                                 <li><i className="fa fa-check"></i> 4 Fluxos</li>
                                             </ul>
 
-                                            <a href="https://api.whatsapp.com/send?phone=5511961845970&text=Eu%20quero" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
+                                            <a href="https://api.whatsapp.com/send?phone=5511961845970&text=Saiba%20mais" className="thm-btn pricing-one__btn">ESCOLHER ESTE</a>
                                         </div>
                                     </div>
                                 </div>
